@@ -31,6 +31,7 @@ AI engineer and data scientist building language-centred systems and the infrast
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?logo=qdrant&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61)
 ![sentence-transformers](https://img.shields.io/badge/sentence--transformers-2C8EBB)
+![turbovec](https://img.shields.io/badge/turbovec-009688)
 
 **Speech**
 ![Whisper](https://img.shields.io/badge/Whisper-412991?logo=openai&logoColor=white)
