@@ -1,4 +1,4 @@
-AI engineer and data scientist building language-centred systems and the infrastructure behind them. Working across German, English, and Dutch.
+## AI engineer and data scientist building language-centred systems and the infrastructure behind them.
 
 - **End-to-end ownership, hardened under constraint.** Fine-tuning to platform to deployment: LoRA / PEFT on 256K-context open-weight models, Whisper / WhisperX transcription with automatic protocolling, multi-app LiteLLM proxy. Battle-tested by on-premise, hardware-bound deployment and live cross-platform workshops (Windows / macOS / Linux, no do-overs).
 - **Trusted in regulated domains, rigour over hype.** RAG for public administration and industry: on-premise, open-weight, data-protection-bound, adaptive retrieval with source citations. Statistical-modelling discipline (hierarchical / Bayesian, MLOps) and systematic evaluation (RAGAS); measure before claiming.
