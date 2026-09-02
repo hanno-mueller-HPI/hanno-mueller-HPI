@@ -1,10 +1,7 @@
-## AI engineer and data scientist building language-centred systems and the infrastructure behind them.
+Speech & AI Engineer · Computational Linguist · Data Scientist
 
-### End-to-end ownership, hardened under constraint 
-Fine-tuning to platform to deployment: LoRA / PEFT on open-weight models, ASR, automatic protocolling, multi-app LiteLLM proxy. Battle-tested by on-premise, hardware-bound deployment, Kubernetes and ArgoCD. Live cross-platform workshops (Windows / macOS / Linux).
+Working at the [AI Service Centre](https://hpi.de/en/ai-service-centre/) at the Hasso Plattner Institute. PhD in Computational Linguistics, specialising in automatic speech recognition, natural language processing, and cognitive modelling. Graduate of the International Max Planck Research School.
 
-### Trusted in regulated domains, rigour over hype 
-RAG for public administration and industry: on-premise, open-weight, data-protection-bound, adaptive retrieval. Statistical-modelling discipline (hierarchical / Bayesian, MLOps) and systematic evaluation; measure before claiming.
+Interests: ASR · NLP · Cognitive & large-scale data modelling · Machine learning · Applied AI
 
-### The translator
-Workshops and training for technical and non-technical audiences, AI-integration consulting, researcher enablement. German, English, Dutch.
+[Google Scholar](https://scholar.google.com/citations?user=kwhEIgwAAAAJ) · [LinkedIn](https://www.linkedin.com/in/hanno-müller-721876315)
